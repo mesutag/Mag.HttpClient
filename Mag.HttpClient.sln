@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mag.HttpClient", "Mag.HttpClient\Mag.HttpClient.csproj", "{164E4A05-BA45-484E-A0B2-EE532044F5CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B6ACC6D8-D347-4565-B67A-FA4E3924220B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{164E4A05-BA45-484E-A0B2-EE532044F5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{164E4A05-BA45-484E-A0B2-EE532044F5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{164E4A05-BA45-484E-A0B2-EE532044F5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6ACC6D8-D347-4565-B67A-FA4E3924220B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6ACC6D8-D347-4565-B67A-FA4E3924220B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6ACC6D8-D347-4565-B67A-FA4E3924220B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6ACC6D8-D347-4565-B67A-FA4E3924220B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
